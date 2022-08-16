@@ -41,4 +41,7 @@ public class Git01 {
 
  */
 
-*****************GİT ÖĞRENDİM SAYILIR **********************
+*****************GİT ÖĞRENDİM SAYIooLIR **********************
+
+
+cgchvjhbkjnklşl
