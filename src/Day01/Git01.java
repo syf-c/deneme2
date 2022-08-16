@@ -30,7 +30,11 @@ public class Git01 {
      */
 
         System.out.println(" denemene 1 . son hali ");
-
     }
 }
+/*son denemem
+        yapmak için
+                gerekl, şartlar
+                        yerine getirişöm
 
+ */
