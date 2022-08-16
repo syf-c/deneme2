@@ -40,3 +40,5 @@ public class Git01 {
                         yerine getirişöm
 
  */
+
+*****************GİT ÖĞRENDİM SAYILIR **********************
