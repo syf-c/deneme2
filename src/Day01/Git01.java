@@ -1,8 +1,9 @@
 package Day01;
 
 public class Git01 {
-}
-    /*İlk defa PUSH yapacaksanız bir projeyi ;
+    public static void main(String[] args) {
+
+         /*İlk defa PUSH yapacaksanız bir projeyi ;
 
 1 - Önce GitHub a gidip New Repository i oluşturun
         2- Oluşturduğunuz repository de size verilen https://github.com/.............git   adresini kopyalayın
@@ -27,3 +28,7 @@ public class Git01 {
         11 - git push
 
      */
+
+    }
+}
+
