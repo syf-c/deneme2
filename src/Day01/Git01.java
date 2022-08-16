@@ -29,6 +29,8 @@ public class Git01 {
 
      */
 
+        System.out.println(" denemene 1 . son hali ");
+
     }
 }
 
